@@ -199,7 +199,7 @@ You need Python 3.10 or higher. If you see Python 3.9 or lower, download the lat
 
 ```bash
 # If you have Git installed:
-git clone https://github.com/[your-username]/churnguard-ai.git
+git clone https://github.com/Moharaz01/churnguard-ai.git
 cd churnguard-ai
 
 # If you don't have Git, download the ZIP from GitHub and unzip it
@@ -264,10 +264,10 @@ This is the easiest way to get your app live with a public URL.
    ```bash
    # In your project folder:
    git init
-   git add churnguard_app.py requirements_churnguard.txt README_ChurnGuard.md .gitignore
+   git add churnguard_app.py requirements_churnguard.txt README.md .gitignore
    git commit -m "Initial commit: ChurnGuard AI churn prediction system"
    git branch -M main
-   git remote add origin https://github.com/[your-username]/churnguard-ai.git
+   git remote add origin https://github.com/Moharaz01/churnguard-ai.git
    git push -u origin main
    ```
 
@@ -278,7 +278,7 @@ This is the easiest way to get your app live with a public URL.
    - Set the **Main file path** to: `churnguard_app.py`
    - Click **Deploy**
    - Wait 2–5 minutes — Streamlit installs your packages automatically
-   - Your app will be live at: `https://[your-username]-churnguard-ai-churnguard-app-[hash].streamlit.app`
+   - This project is already live at: **[churnguard-moharaz.streamlit.app](https://churnguard-moharaz.streamlit.app)**
 
 4. **Share the link in your CV, LinkedIn, and GitHub profile**
 
@@ -374,8 +374,7 @@ project1_churnguard_ml/
 │   └── How It Works + GDPR page
 │
 ├── requirements_churnguard.txt    ← All Python package dependencies
-├── README_ChurnGuard.md           ← This file
-├── DEPLOY_ChurnGuard.md           ← Extended deployment guide
+├── README.md                      ← This file
 ├── GDPR_ChurnGuard.md             ← Standalone GDPR compliance document
 └── .gitignore                     ← Files excluded from Git version control
 ```
@@ -427,4 +426,4 @@ MIT Licence — free to use, modify, and distribute with attribution.
 
 Built as part of a professional AI/ML portfolio targeting UK data science roles.
 
-*[Your Name] | [LinkedIn URL] | [GitHub Profile]*
+**Mrithik Das Raz** | [LinkedIn](https://linkedin.com/in/mdrmrithik01) | [GitHub](https://github.com/Moharaz01)
